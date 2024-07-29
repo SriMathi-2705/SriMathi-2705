@@ -38,24 +38,6 @@ I'm a passionate **Machine Learning Engineer** with hands-on experience in imple
 </table>
 </div>
 
-## 🚀 Projects
-
-Here are some of the projects I’ve worked on:
-
-- **[Project 1: Virtual Mouse Using Python](https://github.com/SriMathi-2705/project1)**
-  - Developed a virtual mouse application using Python and OpenCV.
-  - Implemented hand gesture recognition for controlling mouse functions.
-
-- **[Project 2: Object Detection using YoloV3](https://github.com/SriMathi-2705/project2)**
-  - Built an object detection system using the YoloV3 algorithm.
-  - Integrated real-time detection capabilities with a live video feed.
-
-- **[Project 3: Payroll Automation using RPA](https://github.com/SriMathi-2705/project3)**
-  - Automated payroll processing using Robotic Process Automation (RPA) tools.
-  - Reduced manual workload and errors in the payroll system.
-
-Feel free to check out my GitHub repositories for more details on these and other projects!
-
 ## 📊 GitHub Stats
 
 <table align="center">
