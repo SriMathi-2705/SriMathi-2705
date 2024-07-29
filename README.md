@@ -38,9 +38,22 @@ I'm a passionate **Machine Learning Engineer** with hands-on experience in imple
 </table>
 </div>
 
+## 🌟 Experience
+
+- **Newsletter Editor** at ADEPT Association Club, KCE (Nov 2023 - Present)
+  - Edited and curated content for three editions of the club's newsletters.
+  - Collaborated with team members to gather articles and design layouts.
+  - Ensured timely publication and high-quality standards for each edition.
+
+- **Professional Service Director** at Rotaract Club of Kathir College of Engineering (Jan 2024 - Jun 2024)
+  - Conducted various professional skills programs to enhance members' professional development.
+  - Organized and facilitated five sessions at the club level, focusing on career development and skill enhancement.
+  - Coordinated with external speakers and professionals to provide valuable insights and training.
+
 ## 📊 GitHub Stats
 
-<table align="center">
+<div align="center">
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=SriMathi-2705&show_icons=true&theme=radical" alt="Sri Mathi's GitHub stats" />
@@ -50,6 +63,7 @@ I'm a passionate **Machine Learning Engineer** with hands-on experience in imple
     </td>
   </tr>
 </table>
+</div>
 
 ## 📫 Connect with Me
 
