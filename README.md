@@ -1,7 +1,5 @@
-# Hello, It's Sri Mathi! 👋
+# Hello! 👋
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=000000&lines=Welcome+to+Sri+Mathi+GitHub.;Follow+Me+for+more+updates!!)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SriMathi-2705&color=blue)
 
 ## 🌟 About Me
 
@@ -19,36 +17,48 @@ I'm a passionate **Machine Learning Engineer** with hands-on experience in imple
 <table>
     <tr>
         <td align="center" width="140" height="112.43">
-            <img src="python.jpeg" width="65px"/>
-            <br /> Python
+            <img src="python.jpeg" width="65px"/><br /> Python
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="rpa.png" width="65px"/>
-            <br /> Robotic Process Automation
+            <img src="rpa.png" width="65px"/><br /> Robotic Process Automation
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="jupyter.png" width="65px"/>
-            <br /> Jupyter
+            <img src="jupyter.png" width="65px"/><br /> Jupyter
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="tensorflow.png" width="65px"/>
-            <br /> TensorFlow
+            <img src="tensorflow.png" width="65px"/><br /> TensorFlow
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="pytorch.png" width="65px"/>
-            <br /> Pytorch
+            <img src="pytorch.png" width="65px"/><br /> Pytorch
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="scikitlearn.png" width="65px"/>
-            <br /> Scikit Learn
+            <img src="scikitlearn.png" width="65px"/><br /> Scikit Learn
         </td>
     </tr>
 </table>
 </div>
 
+## 🚀 Projects
+
+Here are some of the projects I’ve worked on:
+
+- **[Project 1: Virtual Mouse Using Python](https://github.com/SriMathi-2705/project1)**
+  - Developed a virtual mouse application using Python and OpenCV.
+  - Implemented hand gesture recognition for controlling mouse functions.
+
+- **[Project 2: Object Detection using YoloV3](https://github.com/SriMathi-2705/project2)**
+  - Built an object detection system using the YoloV3 algorithm.
+  - Integrated real-time detection capabilities with a live video feed.
+
+- **[Project 3: Payroll Automation using RPA](https://github.com/SriMathi-2705/project3)**
+  - Automated payroll processing using Robotic Process Automation (RPA) tools.
+  - Reduced manual workload and errors in the payroll system.
+
+Feel free to check out my GitHub repositories for more details on these and other projects!
+
 ## 📊 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=SriMathi-2705&show_icons=true&theme=radical" alt="Sri Mathi's GitHub stats" />
