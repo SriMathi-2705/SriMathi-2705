@@ -1,5 +1,6 @@
 # Hello! 👋
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=000000&lines=Welcome+to+Sri+Mathi+GitHub.;Follow+Me+for+more+updates!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=808080&lines=Welcome+to+Sri+Mathi+GitHub.;Follow+Me+for+more+updates!!)](https://git.io/typing-svg)
+
 
 ## 🌟 About Me
 
