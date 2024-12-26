@@ -39,9 +39,21 @@ I'm a passionate **Machine Learning Engineer** with hands-on experience in imple
 </table>
 </div>
 
-## 🌟 Experience
+## 🌟 Internship Experience
 
-- **Newsletter Editor** at ADEPT Association Club, KCE (Nov 2023 - Present)
+- **Software Developer - Intern** at Cruzze Solutions LLP (Sep 2024 - Oct 2024)
+  - Developed and maintained APIs for OfficeBot, an HR Management System, using Python, SQLAlchemy, MS SQL, and Flask.
+  - Designed and implemented database models and queries, ensuring efficient data retrieval and storage.
+  - Integrated HR functionalities, including resume management, interview scheduling, and audit logging, to streamline process 
+ 
+## 🌟 Roles and Responsibilities
+
+- **Joint Secretary** at Rotaract Club of Kathir College of Engineering (Aug 2024 - Present)
+  - Designed Posters for events using Canva
+  - Organized various Events
+  - Gained Experience in Social Media Managemenet
+ 
+- **Newsletter Editor** at ADEPT Association Club, KCE (Nov 2023 - Aug 2024)
   - Edited and curated content for three editions of the club's newsletters.
   - Collaborated with team members to gather articles and design layouts.
   - Ensured timely publication and high-quality standards for each edition.
@@ -69,7 +81,7 @@ I'm a passionate **Machine Learning Engineer** with hands-on experience in imple
 ## 📫 Connect with Me
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/sri-mathi-s-058ba2252/">
+    <a href="https://www.linkedin.com/in/sri27-mathi/">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
