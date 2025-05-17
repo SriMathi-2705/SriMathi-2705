@@ -22,21 +22,20 @@ I’m a passionate and detail-oriented **Machine Learning Engineer** and **Pytho
 
 <table align="center">
 <tr>
-  <td><img src="https://img.icons8.com/color/48/python.png" width="40" /> <br/>Python</td>
-  <td><img src="https://img.icons8.com/color/48/flask.png" width="40" /> <br/>Flask</td>
-  <td><img src="https://img.icons8.com/color/48/sql.png" width="40" /> <br/>MS SQL</td>
-  <td><img src="https://img.icons8.com/ios/50/000000/jupyter.png" width="40" /> <br/>Jupyter</td>
-  <td><img src="https://img.icons8.com/color/48/tensorflow.png" width="40" /> <br/>TensorFlow</td>
-  <td><img src="https://img.icons8.com/color/48/pytorch.png" width="40" /> <br/>PyTorch</td>
-  <td><img src="https://img.icons8.com/color/48/docker.png" width="40" /> <br/>Docker</td>
+  <td align="center" width="100"><img src="https://img.icons8.com/color/48/python.png" width="40"/><br/>Python</td>
+  <td align="center" width="100"><img src="https://img.icons8.com/color/48/flask.png" width="40"/><br/>Flask</td>
+  <td align="center" width="100"><img src="https://img.icons8.com/color/48/sql.png" width="40"/><br/>MS SQL</td>
+  <td align="center" width="100"><img src="https://img.icons8.com/ios/50/jupyter.png" width="40"/><br/>Jupyter</td>
+  <td align="center" width="100"><img src="https://img.icons8.com/color/48/tensorflow.png" width="40"/><br/>TensorFlow</td>
+  <td align="center" width="100"><img src="https://img.icons8.com/color/48/pytorch.png" width="40"/><br/>PyTorch</td>
 </tr>
 <tr>
-  <td><img src="https://img.icons8.com/color/48/postgreesql.png" width="40" /> <br/>PostgreSQL</td>
-  <td><img src="https://img.icons8.com/color/48/api.png" width="40" /> <br/>REST API</td>
-  <td><img src="https://img.icons8.com/ios-filled/50/canva-logo.png" width="40" /> <br/>Canva</td>
-  <td><img src="https://img.icons8.com/ios-filled/50/github.png" width="40" /> <br/>GitHub</td>
-  <td><img src="https://img.icons8.com/color/48/git.png" width="40" /> <br/>Git</td>
-  <td><img src="https://img.icons8.com/ios-filled/50/robot.png" width="40" /> <br/>RPA</td>
+  <td align="center" width="100"><img src="https://img.icons8.com/color/48/postgreesql.png" width="40"/><br/>PostgreSQL</td>
+  <td align="center" width="100"><img src="https://img.icons8.com/color/48/api.png" width="40"/><br/>REST API</td>
+  <td align="center" width="100"><img src="https://img.icons8.com/ios-filled/50/canva-logo.png" width="40"/><br/>Canva</td>
+  <td align="center" width="100"><img src="https://img.icons8.com/ios-filled/50/github.png" width="40"/><br/>GitHub</td>
+  <td align="center" width="100"><img src="https://img.icons8.com/color/48/git.png" width="40"/><br/>Git</td>
+  <td align="center" width="100"><img src="https://img.icons8.com/ios-filled/50/robot.png" width="40"/><br/>RPA</td>
 </tr>
 </table>
 
@@ -70,20 +69,20 @@ I’m a passionate and detail-oriented **Machine Learning Engineer** and **Pytho
 
 ## 📌 Featured Projects
 
-| Project                | Description                                                       | Stack                         |
-|------------------------|-----------------------------------------------------------------|-------------------------------|
-| **Sign Spell**         | Real-time AI speech-to-sign-language system using avatars       | Flask, Blender, PostgreSQL, NLP, LLM |
-| **Women Safety Analytics** | AI model to detect threats via gestures, emotions, and voice | ML, OpenCV, Python, Flask     |
-| **Voice Command System** | Desktop app with Tkinter and voice recognition for control     | Python, SpeechRecognition, Tkinter |
+| Project                  | Description                                                        | Stack                                 |
+|--------------------------|--------------------------------------------------------------------|----------------------------------------|
+| **Sign Spell**           | Real-time AI speech-to-sign-language system using avatars          | Flask, Blender, PostgreSQL, NLP, LLM   |
+| **Women Safety Analytics** | AI model to detect threats via gestures, emotions, and voice     | ML, OpenCV, Python, Flask              |
+| **Voice Command System** | Desktop app with Tkinter and voice recognition for control         | Python, SpeechRecognition, Tkinter     |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriMathi-2705&show_icons=true&theme=tokyonight&hide=stars&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriMathi-2705&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriMathi-2705&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SriMathi-2705&show_icons=true&theme=tokyonight&hide=stars&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriMathi-2705&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriMathi-2705&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
 ---
@@ -91,14 +90,16 @@ I’m a passionate and detail-oriented **Machine Learning Engineer** and **Pytho
 ## 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sri27-mathi/" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
-    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" style="vertical-align:middle; fill:#0A66C2;" />
+  <a href="https://www.linkedin.com/in/sri27-mathi/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="32" alt="LinkedIn"/>
   </a>
-  <a href="mailto:srimathis2705@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
-    <img alt="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="32" height="32" style="vertical-align:middle; fill:#D14836;" />
+  &nbsp;
+  <a href="mailto:srimathis2705@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail.png" width="32" alt="Email"/>
   </a>
-  <a href="https://github.com/SriMathi-2705" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
-    <img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" height="32" style="vertical-align:middle; fill:#181717;" />
+  &nbsp;
+  <a href="https://github.com/SriMathi-2705" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="32" alt="GitHub"/>
   </a>
 </div>
 
