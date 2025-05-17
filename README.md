@@ -1,87 +1,107 @@
-# Hello! 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&color=808080&lines=Welcome+to+Sri+Mathi+GitHub.;Follow+Me+for+more+updates!!)](https://git.io/typing-svg)
+<h1 align="center">Hi there, I'm Sri Mathi 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=6A5ACD&center=true&vCenter=true&lines=Machine+Learning+Engineer;Python+Developer;AI+%7C+RPA+%7C+Data+Analytics;Building+AI+to+Solve+Real-World+Problems" alt="Typing SVG" />
+</p>
 
-## 🌟 About Me
+---
 
-I'm a passionate **Machine Learning Engineer** with hands-on experience in implementing various projects. I'm always eager to learn and explore new technologies. Here's a bit more about me:
+## 👩‍💻 About Me
 
-- 🎓 I’m currently pursuing **B.Tech in Artificial Intelligence and Data Science**.
-- 🚀 I’m diving deep into **Machine Learning**, **Robotic Process Automation**, and **Data Analytics**.
-- 💬 Feel free to ask me about **Python Development**, **Artificial Intelligence**, and **Generative AI**. I love discussing and sharing knowledge on these topics!
-- 📫 You can reach me at: [srimathis2705@gmail.com](mailto:srimathis2705@gmail.com)
-- ⚡ Fun fact: I have a passion for **calligraphy** and enjoy spending quality time with my friends.
+I’m a passionate and detail-oriented **Machine Learning Engineer** and **Python Backend Developer** focused on building AI-powered solutions and robust APIs to solve real-world challenges. I bring strong problem-solving skills, a proactive mindset, and the ability to collaborate effectively across teams.
 
-## ⚡ Technologies I Use 
+- 🎓 Pursuing **B.Tech in Artificial Intelligence and Data Science** (CGPA 8.38)  
+- 💻 Specializing in **Machine Learning**, **RPA**, **Data Analytics**, and **Backend API Development**  
+- 💬 Let’s talk about: Python, Generative AI, REST APIs, Flask, NLP, or AI-driven automation  
+- ✍️ Also passionate about **content writing**, **tech newsletters**, and **calligraphy**  
+- 📫 Reach me at: [srimathis2705@gmail.com](mailto:srimathis2705@gmail.com)
 
-<div align="center">
-<table>
-    <tr>
-        <td align="center" width="140" height="112.43">
-            <img src="python.jpeg" width="65px"/><br /> Python
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="rpa.png" width="65px"/><br /> Robotic Process Automation
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="jupyter.png" width="65px"/><br /> Jupyter
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="tensorflow.png" width="65px"/><br /> TensorFlow
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="pytorch.png" width="65px"/><br /> Pytorch
-        </td>
-        <td align="center" width="140" height="112.43">
-            <img src="scikitlearn.png" width="65px"/><br /> Scikit Learn
-        </td>
-    </tr>
+---
+
+## 🛠 Tech Stack
+
+<table align="center">
+<tr>
+  <td><img src="https://img.icons8.com/color/48/python.png" width="40" /> <br/>Python</td>
+  <td><img src="https://img.icons8.com/color/48/flask.png" width="40" /> <br/>Flask</td>
+  <td><img src="https://img.icons8.com/color/48/sql.png" width="40" /> <br/>MS SQL</td>
+  <td><img src="https://img.icons8.com/ios/50/000000/jupyter.png" width="40" /> <br/>Jupyter</td>
+  <td><img src="https://img.icons8.com/color/48/tensorflow.png" width="40" /> <br/>TensorFlow</td>
+  <td><img src="https://img.icons8.com/color/48/pytorch.png" width="40" /> <br/>PyTorch</td>
+  <td><img src="https://img.icons8.com/color/48/docker.png" width="40" /> <br/>Docker</td>
+</tr>
+<tr>
+  <td><img src="https://img.icons8.com/color/48/postgreesql.png" width="40" /> <br/>PostgreSQL</td>
+  <td><img src="https://img.icons8.com/color/48/api.png" width="40" /> <br/>REST API</td>
+  <td><img src="https://img.icons8.com/ios-filled/50/canva-logo.png" width="40" /> <br/>Canva</td>
+  <td><img src="https://img.icons8.com/ios-filled/50/github.png" width="40" /> <br/>GitHub</td>
+  <td><img src="https://img.icons8.com/color/48/git.png" width="40" /> <br/>Git</td>
+  <td><img src="https://img.icons8.com/ios-filled/50/robot.png" width="40" /> <br/>RPA</td>
+</tr>
 </table>
-</div>
 
-## 🌟 Internship Experience
+---
 
-- **Software Developer - Intern** at Cruzze Solutions LLP (Sep 2024 - Oct 2024)
-  - Developed and maintained APIs for OfficeBot, an HR Management System, using Python, SQLAlchemy, MS SQL, and Flask.
-  - Designed and implemented database models and queries, ensuring efficient data retrieval and storage.
-  - Integrated HR functionalities, including resume management, interview scheduling, and audit logging, to streamline process 
- 
-## 🌟 Roles and Responsibilities
+## 💼 Internship Experience
 
-- **Joint Secretary** at Rotaract Club of Kathir College of Engineering (Aug 2024 - Present)
-  - Designed Posters for events using Canva
-  - Organized various Events
-  - Gained Experience in Social Media Managemenet
- 
-- **Newsletter Editor** at ADEPT Association Club, KCE (Nov 2023 - Aug 2024)
-  - Edited and curated content for three editions of the club's newsletters.
-  - Collaborated with team members to gather articles and design layouts.
-  - Ensured timely publication and high-quality standards for each edition.
+**Software Developer Intern** – *Cruzze Solutions LLP*  
+*Sep 2024 – Oct 2024*  
+- Developed and maintained APIs for **OfficeBot**, a Human Resource Management System  
+- Designed database models and CRUD operations using **SQLAlchemy** and **MS SQL**  
+- Built backend modules for **resume parsing**, **interview scheduling**, and **audit logging**
 
-- **Professional Service Director** at Rotaract Club of Kathir College of Engineering (Jan 2024 - Jun 2024)
-  - Conducted various professional skills programs to enhance members' professional development.
-  - Organized and facilitated five sessions at the club level, focusing on career development and skill enhancement.
-  - Coordinated with external speakers and professionals to provide valuable insights and training.
+---
+
+## 🔧 Key Roles & Responsibilities
+
+### 🌐 **Joint Secretary** – *Rotaract Club of KCE* (Aug 2024 – Present)  
+- Created promotional content and managed social media outreach  
+- Coordinated technical and community-building events
+
+### 📰 **Newsletter Editor** – *ADEPT Association, KCE* (Nov 2023 – Aug 2024)  
+- Curated and edited three editions of the technical newsletter  
+- Collaborated with editorial team on content quality and design
+
+### 📈 **Professional Service Director** – *Rotaract Club of KCE* (Jan 2024 – Jun 2024)  
+- Led professional development events and skill workshops  
+- Managed guest speaker sessions and event logistics
+
+---
+
+## 📌 Featured Projects
+
+| Project                | Description                                                       | Stack                         |
+|------------------------|-----------------------------------------------------------------|-------------------------------|
+| **Sign Spell**         | Real-time AI speech-to-sign-language system using avatars       | Flask, Blender, PostgreSQL, NLP, LLM |
+| **Women Safety Analytics** | AI model to detect threats via gestures, emotions, and voice | ML, OpenCV, Python, Flask     |
+| **Voice Command System** | Desktop app with Tkinter and voice recognition for control     | Python, SpeechRecognition, Tkinter |
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SriMathi-2705&show_icons=true&theme=radical" alt="Sri Mathi's GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriMathi-2705&theme=radical" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api?username=SriMathi-2705&show_icons=true&theme=tokyonight&hide=stars&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriMathi-2705&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriMathi-2705&layout=compact&theme=tokyonight" height="150" />
 </div>
 
-## 📫 Connect with Me
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/sri27-mathi/">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
+  <a href="https://www.linkedin.com/in/sri27-mathi/" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" style="vertical-align:middle; fill:#0A66C2;" />
+  </a>
+  <a href="mailto:srimathis2705@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
+    <img alt="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="32" height="32" style="vertical-align:middle; fill:#D14836;" />
+  </a>
+  <a href="https://github.com/SriMathi-2705" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
+    <img alt="GitHub" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" height="32" style="vertical-align:middle; fill:#181717;" />
+  </a>
 </div>
+
+---
+
+> “Strive for progress, not perfection.”
