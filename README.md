@@ -12,7 +12,7 @@
 
 I’m a passionate and detail-oriented **Machine Learning Engineer** and **Python Backend Developer** focused on building AI-powered solutions and robust APIs to solve real-world challenges. I bring strong problem-solving skills, a proactive mindset, and the ability to collaborate effectively across teams.
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence and Data Science** (CGPA 8.38)  
+- 🎓 **B.Tech in Artificial Intelligence and Data Science** Graduate (CGPA 8.38)  
 - 💻 Specializing in **Machine Learning**, **RPA**, **Data Analytics**, and **Backend API Development**  
 - 💬 Let’s talk about: Python, Generative AI, REST APIs, Flask, NLP, or AI-driven automation  
 - ✍️ Also passionate about **content writing**, **tech newsletters**, and **calligraphy**  
